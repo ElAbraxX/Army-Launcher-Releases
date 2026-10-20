@@ -1,6 +1,6 @@
 # KryonCraft — descargas oficiales
 
-[Sitio oficial](https://kryoncraft.pages.dev) · [Versiones y descargas](https://kryoncraft.pages.dev/versiones) · [Discord de KryonCraft](https://dsc.gg/kryoncraft)
+[Sitio oficial](https://kryoncraft.pages.dev) · [Versiones y descargas](https://kryoncraft.pages.dev/versiones) · [Discord de KryonCraft](https://discord.gg/DQxznYdt8N)
 
 KryonCraft es un launcher para **Minecraft: Java Edition en Windows de 64 bits**. Reúne en una sola aplicación las instancias de juego, los cargadores, los mods y los paquetes de recursos. Puedes preparar perfiles locales y, si lo necesitas, importar o mantener modpacks compartidos. Para jugar se requiere una cuenta Microsoft con Minecraft: Java Edition.
 
@@ -22,4 +22,4 @@ Antes de continuar, comprueba que descargaste el instalador desde los enlaces of
 
 ## Ayuda
 
-Si tienes un problema con la instalación o el launcher, puedes escribirnos en el [Discord de KryonCraft](https://dsc.gg/kryoncraft).
+Si tienes un problema con la instalación o el launcher, puedes escribirnos en el [Discord de KryonCraft](https://discord.gg/DQxznYdt8N).
